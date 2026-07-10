@@ -1,6 +1,6 @@
 class Solution {
 public:
-    // Check if it's possible to make m bouquets by 'day'
+  
     bool canMake(vector<int>& bloomDay, int m, int k, int day) {
         int flowers = 0;
         int bouquets = 0;
